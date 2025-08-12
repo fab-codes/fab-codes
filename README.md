@@ -6,7 +6,6 @@
 💬 Let's chat about coding and innovation!
 
 
-
 ## 🧰 Technical Skills
 
 ### Programming Languages
@@ -65,11 +64,9 @@
 </table>
 
 
-
 ## 🏞️ Hobbies
-- 🥾 **Trekking** — Exploring nature and discovering new trails  
-- 🎮 **Videogames** — Gaming is a great way to relax, have fun, and challenge myself.
-
+- 🥾 **Trekking** — Exploring nature and discovering new trails;
+- 🎮 **Videogames** — A great way to relax, have fun, and challenge myself.
 
 
 ## 📬 Get in Touch

@@ -1,4 +1,4 @@
-## 👋 Hi everyone, I'm Fabrizio! 😃
+## 👋 Hi everyone, I'm Fabrizio!
 
 💻 Since I was a child, the world of technology has always fascinated me.  
 🚀 I love building, optimizing, and finding elegant solutions to complex problems.  

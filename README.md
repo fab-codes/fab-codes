@@ -30,6 +30,14 @@
   </tr>
 </table>
 
+### AI & Machine Learning
+<table>
+  <tr>
+    <td><a title="LangChain / LangGraph" href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"></a></td>
+    <td><a title="LlamaIndex" href="https://www.llamaindex.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="LlamaIndex" width="40" height="40"></a></td>
+  </tr>
+</table>
+
 ### UI Libraries
 <table>
   <tr>

@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-### Libraries
+### UI Libraries
 <table>
   <tr>
     <td><a title="Tailwind CSS" href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"></a></td>

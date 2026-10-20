@@ -82,6 +82,6 @@
 <table>
   <tr>
     <td><a title="LinkedIn" href="https://www.linkedin.com/in/fab-greco/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"></a></td>
-    <td><a title="Email" href="mailto:fab@fabgreco.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Android_Email_4.4_Icon.png" alt="Email" width="40" height="40"></a></td>
+    <td><a title="Email" href="mailto:hi@fabgreco.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Android_Email_4.4_Icon.png" alt="Email" width="40" height="40"></a></td>
   </tr>
 </table>
